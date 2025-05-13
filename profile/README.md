@@ -3,7 +3,6 @@ One of two staff unions at the Federal Trade Commission. This GitHub organizatio
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Financial Policy Ratified](https://www.ftcunion.org/2025/financial-policy-ratified/)
 - [Illegal Terminations](https://www.ftcunion.org/2025/illegal-terminations/)
 - [Bargaining Survey](https://www.ftcunion.org/2024/bargaining-survey/)
 - [Bargaining Lunch &amp; Learn](https://www.ftcunion.org/2024/bargaining-lunch-learn/)
