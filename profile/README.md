@@ -1,5 +1,5 @@
 # We are NTEU Chapter 344
-One of two staff unions at the Federal Trade Commission. This GitHub organization hosts some repositories related to our website.
+One of two staff unions at the Federal Trade Commission. This GitHub organization hosts some repositories related to our web and email services.
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
